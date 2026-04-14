@@ -90,8 +90,8 @@ However, the insights and analysis are based on the provided dataset structure a
 
 ## 📸 Dashboard Preview
 
-### Executive Overview
-![Executive Overview](./01-executive-overview.png)
+### Executive Summary
+![Executive Summary](./01-executive-summary.png)
 
 ### Customer Analysis
 ![Customer Analysis](./02-customer-analysis.png)
