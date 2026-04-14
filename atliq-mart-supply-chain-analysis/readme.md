@@ -81,16 +81,16 @@ However, the dashboard, insights, and analysis are fully based on the provided d
 ## 📸 Dashboard Preview
 
 ### Executive Service Level Overview
-![Executive Dashboard](./executive-service-level-overview-dashboard.png)
+![Executive Service Level Overview Dashboard](./executive-service-level-overview-dashboard.png)
 
 ### Customer Service Level Analysis
-![Customer Dashboard](./customer-service-level-analysis.png)
+![Customer Service Level Analysis Dashboard](./customer-service-level-analysis.png)
 
 ### Business Insights & Problem Context
-![Insights Dashboard](./business-insights-and-problem-context.png)
+![Business Insights & Problem Context Dashboard](./business-insights-and-problem-context.png)
 
 ### Operational Insights & Recommendations
-![Operational Dashboard](./operational-insights-and-recommendations.png)
+![Operational Insights & Recommendations Dashboard](./operational-insights-and-recommendations.png)
 
 ---
 
