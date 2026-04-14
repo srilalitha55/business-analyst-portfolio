@@ -92,14 +92,14 @@ However, the insights and analysis are based on the provided dataset structure.
 ### Executive Overview
 ![Executive Overview](./01-executive-overview.png)
 
-### Customer Segmentation Analysis
-![Customer Segmentation Analysis](./02-customer-segmentation-analyis.png)
+### Customer Demographics
+![Customer Demographics](./02-customer-demographics.png)
 
-### Spending Behavior Analysis
-![Spending Behavior Analysis](./03-spending-behavior-analysis.png)
+### Spending & Segmentation
+![Spending & Segmentation](./03-spending-and-segmentation.png)
 
-### Business Insights & Recommendations
-![Business Insights & Recommendations](./04-business-insights-and-recommendations.png)
+### Insights & Recommendations
+![Insights & Recommendations](./04-insights-and-recommendations.png)
 
 ---
 
