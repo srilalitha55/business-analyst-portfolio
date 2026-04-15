@@ -1,6 +1,6 @@
 # 📊 Business Analyst Portfolio Projects
 
-Welcome to my data analytics portfolio! This repository showcases **6 end-to-end projects** demonstrating my skills in **data analysis, visualization, and business problem-solving** using tools like **Power BI, SQL, Excel, and DAX**.
+Welcome to my Business Analyst portfolio! This repository showcases **6 end-to-end projects** demonstrating my skills in **data analysis, visualization, and business problem-solving** using tools like **Power BI, SQL, Excel, and DAX**.
 
 Each project is built around a **real-world business problem** and follows a structured approach:
 **Problem → Analysis → Insights → Recommendations**
