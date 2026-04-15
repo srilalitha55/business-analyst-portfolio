@@ -49,28 +49,6 @@ The dashboard focuses on the following KPIs:
 
 ---
 
-## 📊 Dashboard Features
-
-- Consumer demographic analysis (age group, gender, city)  
-- Consumption behavior insights (frequency, timing, reasons)  
-- Brand awareness and perception analysis  
-- Competitor analysis and brand preference insights  
-- Marketing channel effectiveness analysis  
-- Purchase behavior and pricing insights  
-
----
-
-## 📁 Dataset Information
-
-The project uses multiple datasets:
-
-- `dim_respondents` – Respondent demographics (age, gender, city)  
-- `dim_cities` – City and tier classification  
-- `fact_survey_responses` – Survey responses on behavior, perception, and preferences  
-
-📌 Dataset includes detailed survey responses on consumption habits, brand perception, marketing exposure, and purchase behavior  
-
----
 
 ## ⚠️ Data Disclaimer
 
@@ -82,9 +60,9 @@ However, the insights and analysis are based on the provided dataset structure a
 
 ## 🛠 Tools Used
 
-- Power BI (Dashboard Development)  
-- Excel (Data Preparation)  
-- SQL (Data Analysis concepts)  
+- Power BI - Dashboard Development  
+- Excel - Data Preparation 
+- SQL - Data Analysis concepts 
 
 ---
 
