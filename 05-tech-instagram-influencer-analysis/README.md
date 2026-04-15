@@ -34,7 +34,7 @@ The influencer lacked clarity on:
 
 ## 📊 Sample Output
 
-![Reach Analysis Output](05-tech-instagram-influencer-analysis/02-outputs/output_07.png)
+![Reach Analysis Output](02-outputs/output_07.png)
 
 ---
 
