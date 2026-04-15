@@ -58,10 +58,18 @@ The dashboard is built using well-defined DAX measures, including:
 
 ## 📸 Dashboard Preview  
 
-- Executive Overview Dashboard  
-- Customer Analysis Dashboard  
-- Claims & Revenue Analysis  
-- Performance Trends Dashboard  
+### 🟢 Shield Insurance - Executive Overview 
+![Shield Insurance Executive Overview](./01-shield-insurance-executive-overview.png)
+
+---
+
+### 🔵 Shield Insurance Sales Mode Analysis 
+![Shield Insurance Sales Mode Analysis](./02-shield-insurance-sales-mode-analysis.png)
+
+---
+
+### 🟣 Shield Insurance Age Group Analysis 
+![Shield Insurance Age Group Analysis](./03-shield-insurance-age-group-analysis.png)
 
 ---
 
