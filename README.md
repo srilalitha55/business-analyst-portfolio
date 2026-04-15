@@ -1,6 +1,8 @@
 # 📊 Business Analyst Portfolio Projects
 
-Welcome to my Business Analyst portfolio! This repository showcases **6 end-to-end projects** demonstrating my skills in **data analysis, visualization, and business problem-solving** using tools like **Power BI, SQL, Excel, and DAX**.
+🚀 Transforming data into actionable business insights through real-world analytics projects
+
+Welcome to my Business Analyst portfolio. This repository showcases **6 end-to-end projects** demonstrating my skills in **data analysis, visualization, and business problem-solving** using tools like **Power BI, SQL, Excel, and DAX**.
 
 Each project is built around a **real-world business problem** and follows a structured approach:
 **Problem → Analysis → Insights → Recommendations**
@@ -11,7 +13,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 1️⃣ AtliQ Mart Supply Chain Analysis(https://github.com/srilalitha55/projects/tree/main/01-atliq-mart-supply-chain-analysis)
 
-- **Domain:** FMCG(Fast - Moving Consumer Goods)
+- **Domain:** FMCG(Fast-Moving Consumer Goods)
 - **Function:** Supply Chain, Strategy  
 - **Objective:** Improve delivery performance and service levels  
 - **Key Metrics:** OT%, IF%, OTIF, LIFR, VOFR  
@@ -41,7 +43,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 4️⃣ CodeX Energy Drink Consumer Behavior Analysis(https://github.com/srilalitha55/projects/tree/main/04-codex-energy-drink-consumer-behavior-analysis)
 
-- **Domain:** Food & Beverages(F&B) 
+- **Domain:** Food & Beverages (F&B) 
 - **Function:** Marketing  
 - **Objective:** Understand consumer preferences and brand awareness  
 - **Key Metrics:** Awareness %, Trial Rate, Consumption Behavior  
