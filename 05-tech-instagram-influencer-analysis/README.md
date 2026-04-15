@@ -109,7 +109,7 @@ ORDER BY total_likes DESC;
 
 📂 SQL Queries
 
-👉 Full SQL scripts available here: (05-tech-instagram-influencer-analysis/01-queries)
+👉  [View Full SQL Queries](01-queries/)
 
 🎥 Project Presentation
 
