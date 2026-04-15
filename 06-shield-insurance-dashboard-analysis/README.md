@@ -98,17 +98,6 @@ The dashboard is built using well-defined DAX measures, including:
 
 ---
 
-## 📌 Documentation  
-
-This project includes:
-
-- DAX Metrics List  
-- Dashboard Usage Guide  
-- Business Context Explanation  
-
-This ensures stakeholders can easily understand and use the dashboard.
-
----
 
 ## ⚠️ Data Disclaimer  
 
