@@ -6,6 +6,7 @@ Analyzed Instagram influencer data using SQL to identify content performance tre
 ---
 
 ## ❗ Problem Statement
+
 The influencer lacked clarity on:
 
 - Best performing content format  
@@ -28,6 +29,12 @@ The influencer lacked clarity on:
 - Gadget & Tech content drives maximum engagement  
 - May recorded peak growth in followers and profile visits  
 - Image posts generate highest shares  
+
+---
+
+## 📊 Sample Output
+
+![Reach Analysis Output](images/query7_output.png)
 
 ---
 
@@ -56,6 +63,12 @@ GROUP BY post_type;
 ## 📂 SQL Queries
 
 👉 [View Full SQL Queries](./01-queries/)
+
+---
+
+## 📊 All Query Outputs
+
+👉 [View All Outputs](./02-outputs/)
 
 ---
 
