@@ -48,28 +48,6 @@ The dashboard focuses on the following KPIs:
 
 ---
 
-## 📊 Dashboard Features
-
-- KPI overview with weekly trend analysis  
-- City-wise performance analysis  
-- Property-level revenue insights  
-- Booking platform contribution analysis  
-- Weekday vs Weekend occupancy analysis  
-- Trend analysis for key metrics  
-
----
-
-## 📁 Dataset Information
-
-The project uses multiple datasets:
-
-- `dim_date` – Date details (week number, day type)  
-- `dim_hotels` – Hotel/property information (city, category)  
-- `dim_rooms` – Room classification  
-- `fact_aggregated_bookings` – Booking & capacity data  
-- `fact_bookings` – Detailed booking data  
-
----
 
 ## ⚠️ Data Disclaimer
 
@@ -79,9 +57,9 @@ Datasets used in this project are not included in this repository due to data pr
 
 ## 🛠 Tools Used
 
-- Power BI (Dashboard Development)  
-- Excel (Data Preparation)  
-- SQL (Data Analysis concepts)  
+- Power BI - Dashboard Development  
+- Excel - Data Preparation
+- SQL - Data Analysis concepts 
 
 ---
 
