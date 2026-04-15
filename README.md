@@ -9,7 +9,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ## 🚀 Projects Overview
 
-### 1️⃣ AtliQ Mart Supply Chain Analysis (https://github.com/srilalitha55/projects/tree/main/01-atliq-mart-supply-chain-analysis)
+### 1️⃣ AtliQ Mart Supply Chain Analysis(https://github.com/srilalitha55/projects/tree/main/01-atliq-mart-supply-chain-analysis)
 
 - **Domain:** FMCG / Supply Chain  
 - **Objective:** Improve delivery performance and service levels  
@@ -18,7 +18,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 2️⃣ AtliQ Grands Revenue Performance Analysis
+### 2️⃣ AtliQ Grands Revenue Performance Analysis(https://github.com/srilalitha55/projects/tree/main/02-atliq-grands-revenue-performance-analysis)
 
 - **Domain:** Hospitality  
 - **Objective:** Analyze revenue decline and market share loss  
@@ -27,7 +27,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 3️⃣ Mitron Bank Credit Card Strategy Analysis
+### 3️⃣ Mitron Bank Credit Card Strategy Analysis(https://github.com/srilalitha55/projects/tree/main/03-mitron-bank-credit-card-strategy-analysis)
 
 - **Domain:** Banking / FinTech  
 - **Objective:** Analyze customer spending behavior for credit card launch  
@@ -36,7 +36,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 4️⃣ CodeX Energy Drink Consumer Behavior Analysis
+### 4️⃣ CodeX Energy Drink Consumer Behavior Analysis(https://github.com/srilalitha55/projects/tree/main/04-codex-energy-drink-consumer-behavior-analysis)
 
 - **Domain:** FMCG / Marketing  
 - **Objective:** Understand consumer preferences and brand awareness  
@@ -45,7 +45,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 5️⃣ Tech Instagram Influencer Analysis
+### 5️⃣ Tech Instagram Influencer Analysis(https://github.com/srilalitha55/projects/tree/main/05-tech-instagram-influencer-analysis) 
 
 - **Domain:** Social Media Analytics  
 - **Objective:** Identify high-performing content and engagement trends  
@@ -54,7 +54,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 ---
 
-### 6️⃣ Shield Insurance Dashboard Analysis
+### 6️⃣ Shield Insurance Dashboard Analysis(https://github.com/srilalitha55/projects/tree/main/06-shield-insurance-dashboard-analysis)
 
 - **Domain:** Insurance / Business Intelligence  
 - **Objective:** Build a KPI-driven dashboard for business performance tracking  
