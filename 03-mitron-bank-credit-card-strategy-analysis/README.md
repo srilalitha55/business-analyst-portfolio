@@ -49,27 +49,6 @@ The dashboard focuses on the following KPIs:
 
 ---
 
-## 📊 Dashboard Features
-
-- KPI overview of spending and income utilization  
-- Customer segmentation by age group, occupation, and city  
-- Spending behavior analysis across categories  
-- Payment method analysis (UPI, Credit Card, Debit Card, Net Banking)  
-- Identification of high-value customer segments  
-- Interactive dashboard for strategic decision-making  
-
----
-
-## 📁 Dataset Information
-
-The project uses multiple datasets:
-
-- `dim_customers` – Customer demographics (age, gender, income, occupation, city)  
-- `fact_spends` – Customer spending data across categories and payment types  
-
-📌 Dataset includes customer demographics, spending categories, payment methods, and income details for analysis  
-
----
 
 ## ⚠️ Data Disclaimer
 
@@ -81,9 +60,9 @@ However, the insights and analysis are based on the provided dataset structure.
 
 ## 🛠 Tools Used
 
-- Power BI (Dashboard Development)  
-- Excel (Data Preparation)  
-- SQL (Data Analysis concepts)  
+- Power BI - Dashboard Development  
+- Excel - Data Preparation
+- SQL - Data Analysis concepts  
 
 ---
 
