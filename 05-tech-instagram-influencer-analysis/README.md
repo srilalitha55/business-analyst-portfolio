@@ -81,7 +81,7 @@ GROUP BY post_type;
 
 ## 🛠 Tools Used
 
-- SQL (MySQL Workbench)  
+- SQL - MySQL Workbench  
 - PowerPoint  
 
 ---
