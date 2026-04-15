@@ -51,7 +51,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 5️⃣ Tech Instagram Influencer Analysis(https://github.com/srilalitha55/projects/tree/main/05-tech-instagram-influencer-analysis) 
 
-- **Domain:** Social Media Analytics  
+- **Domain:** Social Media Analytics
+- **Function:** Marketing Analytics, Content Strategy   
 - **Objective:** Identify high-performing content and engagement trends  
 - **Key Metrics:** Reach %, Engagement, Growth Trends  
 - **Outcome:** Recommended content strategies to maximize reach and engagement  
