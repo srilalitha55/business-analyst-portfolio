@@ -61,7 +61,8 @@ Each project is built around a **real-world business problem** and follows a str
 
 ### 6️⃣ Shield Insurance Dashboard Analysis(https://github.com/srilalitha55/projects/tree/main/06-shield-insurance-dashboard-analysis)
 
-- **Domain:** Insurance / Business Intelligence  
+- **Domain:** Insurance, Business Intelligence
+- **Function:** Business Intelligence, Performance Monitoring 
 - **Objective:** Build a KPI-driven dashboard for business performance tracking  
 - **Key Metrics:** Revenue, Customers, Claims, Policy Count  
 - **Outcome:** Developed an interactive dashboard enabling data-driven decision-making  
