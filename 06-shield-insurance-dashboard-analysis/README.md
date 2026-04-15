@@ -48,40 +48,6 @@ The dashboard is built using well-defined DAX measures, including:
 
 ---
 
-## 📊 Dashboard Features  
-
-- KPI summary cards for quick performance tracking  
-- Interactive filters and slicers for deep analysis  
-- Trend analysis (monthly/yearly performance)  
-- Category-wise and customer-level breakdown  
-- Cross-filtering between visuals for better insights  
-- Clean and structured layout for better readability  
-
----
-
-## 🎨 Dashboard Design Principles  
-
-The dashboard is designed based on best practices:
-
-- **Color Selection:** Based on brand/theme  
-- **Font & Size:** Proper hierarchy for KPIs  
-- **Aspect Ratio:** Maintained 16:9  
-- **Positioning:** Clean spacing and alignment  
-
----
-
-## 📁 Dataset Information  
-
-The project uses structured datasets such as:
-
-- Customer Data  
-- Policy Data  
-- Claims Data  
-- Date Dimension  
-- Aggregated Performance Data  
-
----
-
 ## 🛠 Tools Used  
 
 - **Power BI** – Dashboard Development  
@@ -102,7 +68,7 @@ The project uses structured datasets such as:
 ## 🎥 Project Presentation (Audio Explanation)  
 
 👉 **Listen to the Project Explanation:**  
-https://drive.google.com/your-audio-link  
+(https://drive.google.com/file/d/1F4Er0NKAtjpAlT1_hhzULbOy1LTk1QD-/view?usp=sharing) 
 
 ---
 
