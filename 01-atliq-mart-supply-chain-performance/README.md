@@ -1,4 +1,4 @@
-# 📊 AtliQ Mart Supply Chain Analysis
+# 📊 AtliQ Mart Supply Chain Performance
 
 ## 🧾 Project Overview
 This project focuses on analyzing supply chain performance for AtliQ Mart, a growing FMCG company, to identify service level issues and improve customer satisfaction.
