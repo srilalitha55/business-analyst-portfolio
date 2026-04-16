@@ -1,4 +1,4 @@
-# 📊 AtliQ Grands Revenue Performance Analysis
+# 📊 AtliQ Grands Revenue Optimization
 
 ## 🧾 Project Overview
 
