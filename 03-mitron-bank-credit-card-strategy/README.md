@@ -1,4 +1,4 @@
-# 📊 Mitron Bank Credit Card Strategy Analysis
+# 📊 Mitron Bank Credit Card Strategy
 
 ## 🧾 Project Overview
 
