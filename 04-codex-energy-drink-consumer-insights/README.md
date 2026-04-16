@@ -1,4 +1,4 @@
-# 📊 CodeX Energy Drink Consumer Behavior Analysis
+# 📊 CodeX Energy Drink Consumer Insights
 
 ## 🧾 Project Overview
 
