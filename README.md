@@ -67,7 +67,7 @@ Each project is built around a **real-world business problem** and follows a str
 
 
 
-- ### 6️⃣ Tech Instagram Influencer Analysis Virtual Internship
+### 6️⃣ Tech Instagram Influencer Analysis Virtual Internship
 (https://github.com/srilalitha55/projects/tree/main/06-tech-instagram-influencer-analysis-virtual-internship) 
 
 - **Domain:** Social Media Analytics
